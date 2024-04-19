@@ -1,0 +1,7 @@
+```
+npm install
+```
+
+```
+nodemon app
+```
